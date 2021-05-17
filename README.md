@@ -1,9 +1,9 @@
-## London-Boroughs-increase-in-housing-price
+# London-Boroughs-increase-in-housing-price
 
 
 The goal of this project is to determine which London Boroughs(Local Districts) have seen the greatest increase in housing prices, on average, over the last two decades and finding out the most desirable areas to live in(1998-2018)
 
-# This project is divided into  below 5 stages
+##  This project is divided into  below 5 stages
 
 1. Sourcing and Loading the data: Data comes from https://data.london.gov.uk/ a free, open-source data-sharing portal for London-oriented datasets. With the following link we can fetch our data https://data.london.gov.uk/download/uk-house-price-index/70ac0766-8902-4eb5-aab5-01951aaed773/UK%20House%20price%20index.xls
 * Includes importing the libraries
